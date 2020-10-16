@@ -1,0 +1,26 @@
+.jumbotron {
+    background-image: url("../Images/image03.jpg");
+    min-height: 50%;
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.panel {
+   background-color: rgb(234, 240, 240);
+   border: midnightblue; 
+}
+
+.well {
+    background-color: rgb(234, 240, 240);
+    border: midnightblue;
+}
+
+.container {
+    font-size: 14px;
+    font-family: Georgia;
+}
