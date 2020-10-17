@@ -2,4 +2,4 @@
 ### Access link ^
 
 
-![](https://github.com/jojobear2020/Biodiversity_Dashboard/blob/main/Images/dashboard_snip.PNG)
+![](https://github.com/jojobear2020/Biodiversity_Dashboard/blob/main/Images/dashboard_snip01.PNG)
